@@ -6,8 +6,6 @@ The purpose of this analysis is to determine the number of retiring employees, a
 
 ## Results: 
 
-Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
-
 1. A massive 30% of all employees are potentially retiring.
     
     ![Total Pct Retiring](https://user-images.githubusercontent.com/85706721/129280460-88ef597f-3b98-4f70-9506-6c4621f7c1c0.png)
@@ -26,16 +24,15 @@ Provide a bulleted list with four major points from the two analysis deliverable
 
 ## Summary: 
 
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
+* 90,398 roles will need to filled.
+
+![sum of retirees](https://user-images.githubusercontent.com/85706721/129281746-1228978e-caa7-4489-b9cb-4875ae2c78b3.png)
+
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
+* Based on the number of eligible mentors by department shown in the table below, I believe there are enough to mentor the next generation of PH employees.
 
-
-
-
-
-
-
+![mentors by dept](https://user-images.githubusercontent.com/85706721/129282467-f246f8ab-2ee8-4491-bb53-f7612e9ad762.png)
