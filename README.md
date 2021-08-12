@@ -8,11 +8,10 @@ The purpose of this analysis is to determine the number of retiring employees, a
 
 Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
-1.
-2.
-3.
-4.
-
+1. A massive 30% of all employees are potentially retiring.
+2. 64% of the potential retirees hold a senior level position.
+3. 25% of all engineers are potentially retiring.
+4. Only 2% of potential retirees are eligible for the mentorship program.
 
 ## Summary: 
 
